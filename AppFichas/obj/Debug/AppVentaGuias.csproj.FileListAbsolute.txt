@@ -1,0 +1,9 @@
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.Form1.resources
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppVentaGuias.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.exe
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.pdb
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\bin\Debug\AppFichas.exe.config
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\bin\Debug\AppFichas.exe
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\bin\Debug\AppFichas.pdb
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.Capalogica.Ficha.resources

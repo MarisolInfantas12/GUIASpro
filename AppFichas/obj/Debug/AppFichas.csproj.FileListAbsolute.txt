@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\bin\Debug\AppFichas.exe.config
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.Properties.Resources.resources
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\bin\Debug\AppFichas.exe
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\bin\Debug\AppFichas.pdb
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.exe
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.pdb
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.MenuPrincipal.resources
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.capa_presentacion.Guia.resources
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.capa_presentacion.Login.resources
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.capa_presentacion.Alumno.resources
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.capa_presentacion.VentasGuias.resources
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.capa_presentacion.NuevoUsuario.resources
+C:\Users\Usuario\Desktop\AppFichas\AppFichas\obj\Debug\AppFichas.capa_presentacion.Ayuda.resources
